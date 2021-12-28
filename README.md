@@ -1,1 +1,0 @@
-# mini-project-exam-management-project
